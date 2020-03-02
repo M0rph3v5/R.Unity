@@ -1,0 +1,13 @@
+{
+	"name": "com.m0rph3v5.runity",
+	"version": "0.1.0",
+	"displayName": "R.Unity",
+	"description": "Get strong typed and autocompleted keys like scenes, tags and layers in C# Unity projects",
+	"unity": "2019.3",
+	"unityRelease": "3f1",
+	"author": {
+		"name": "Benjamin de Jager",
+		"email": "m0rph3v5@gmail.com",
+		"url": "https://m0rph3v5.com"
+	}
+}
