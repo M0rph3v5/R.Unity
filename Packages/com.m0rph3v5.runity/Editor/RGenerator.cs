@@ -11,13 +11,9 @@ using UnityEditor.Animations;
 [InitializeOnLoad]
 public static class RGenerator {
 
-	static RGenerator() {
-		EditorApplication.update += OnUpdate;
-    }
-
 	[MenuItem ("Tools/R.Unity/Regenerate")]
-    private static void WriteCodeFile() {
-		    Debug.Log("Writing new R.Unity");
+    private static void WriteCodeFile() { 
+	    Debug.Log("Writing new R.Unity");
 
         // the path we want to write to
         var path = string.Concat( Application.dataPath, Path.DirectorySeparatorChar, "Scripts/RGenerated.cs" );
