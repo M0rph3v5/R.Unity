@@ -1,5 +1,5 @@
 # R.Unity
-Get autocompleted keys like scenes, tags and layers in C# Unity projects
+Get strong typed and autocompleted keys like scenes, tags and layers in C# Unity projects
 
 # openUPM
 
