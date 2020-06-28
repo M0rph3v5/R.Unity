@@ -39,3 +39,7 @@ This repository has UPM support. Install it with:
 npm install -g openupm-cli
 openupm add com.m0rph3v5.runity
 ```
+
+### R.Swift
+
+This is based on the idea of [mac-cain13](https://github.com/mac-cain13) and his work on [R.Swift](https://github.com/mac-cain13/R.swift/)
