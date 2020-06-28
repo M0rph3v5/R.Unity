@@ -4,7 +4,6 @@ _Get strong typed, autocompleted resources like scenes, tags and layers in C# Un
 ## Why use this?
 
 It makes your code that uses resources:
-- **Fully typed**, less guessing what a method will return
 - **Compile time checked**, no more incorrect strings that make your application crash at runtime
 - **Autocompleted**, never have to guess that scene name again
 
