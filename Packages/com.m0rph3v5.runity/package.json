@@ -1,6 +1,6 @@
 {
   "name": "com.m0rph3v5.runity",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "R.Unity",
   "description": "Get strong typed and autocompleted keys like scenes, tags and layers in C# Unity projects",
   "unity": "2019.3",
